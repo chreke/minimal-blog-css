@@ -1,0 +1,38 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height:1.2;
+}
+
+code {
+    background: #eee;
+    font-size: 14px;
+    padding: 2px;
+}
+
+pre {
+    padding: 1em;
+    background: #eee;
+}
+
+a {
+    color: #e81c4f;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-height: 30em;
+    max-width: 80%;
+}
