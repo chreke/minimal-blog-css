@@ -2,6 +2,7 @@ body {
     margin: 2em auto;
     max-width: 36em;
     line-height: 1.6;
+    padding: 0 1em;
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
