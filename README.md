@@ -18,3 +18,11 @@ to make it display properly on mobile.
     <link rel="stylesheet" href="style.css" />
 </head>
 ```
+
+To make hyphenations work, make sure to set the [lang
+attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang)
+to whatever language your content is written in, e.g.
+
+```html
+<html lang="en">
+```
