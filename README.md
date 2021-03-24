@@ -9,8 +9,8 @@ You can view a demo at https://minimal-blog-css.netlify.app/
 # Goals
 
  - Be readable; the CSS should make for a comfortable reading experience
- - Be portable; the reading experience should well to different devices and
-   browsers
+ - Be portable; the reading experience should translate well to different
+   devices and browsers
  - Be accessible; text should be clear and styles should not interfere with
    accessibility tools
  - Be minimal; better to include too little than too much
