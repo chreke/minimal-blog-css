@@ -4,6 +4,8 @@ A *really* minimal CSS theme for blogs or other text-heavy websites.
 
 Inspired by http://bettermotherfuckingwebsite.com/
 
+You can view a demo at https://minimal-blog-css.netlify.app/
+
 # Goals
 
  - Be readable; the CSS should make for a comfortable reading experience
