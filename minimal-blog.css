@@ -6,6 +6,8 @@ body {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
